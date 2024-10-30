@@ -1,0 +1,14 @@
+#plugin-title.with-banner {
+    height: 250px;
+    width: 772px;
+}
+#plugin-title {
+    background-image: url("//ps.w.org/custom-ads-management/assets/banner-772x250.png?rev=1212774");
+    background-size: 772px 250px;
+    height: 250px;
+    width: 772px;
+}
+#plugin-title {
+    margin: 0;
+    position: relative;
+}
